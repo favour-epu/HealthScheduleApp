@@ -193,9 +193,9 @@ npm test
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
+## 👥 Author
 
-- Adeojo Seyifunmi - Initial work
+- EPU FAVOUR JESICA 
 
 ## 🙏 Acknowledgments
 
@@ -205,4 +205,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email seyi4614@gmail.com or create an issue in the repository.
+For support, email favourepu70@gmail.com or create an issue in the repository.
